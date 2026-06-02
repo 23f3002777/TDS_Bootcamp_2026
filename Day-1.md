@@ -16,8 +16,13 @@ I already knew ls, mkdir, cd commands but just basic knowledge
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-I learnt the pipe command and how to install Linux with Ubuntu
+I learnt the pipe command and how to install Linux with Ubuntu.
 ---
 
-Feedback
+--- Feedback (Suggestions for the TDS Team) ---
 More background on why we need Linux.
+---
+
+---
+---
+
