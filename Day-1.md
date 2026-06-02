@@ -1,4 +1,7 @@
- Before Day-1 ---
+---
+---
+
+--- Before Day-1 ---
 I already knew ls, mkdir, cd commands but just basic knowledge
 --- 
 
